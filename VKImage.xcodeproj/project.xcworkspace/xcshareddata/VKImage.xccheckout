@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7817572A-D956-4861-9FC4-8F6590780AEA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VKImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B5936C9CBA1409844D74AA6E444E0F825C39CB9</key>
+		<string>github.com:mpapp/Manuscripts.app.git</string>
+		<key>7FA78DA58032BAEBD1A595DD2AA248D4F6F009F4</key>
+		<string>github.com:mpapp/VKImage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VKImage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B5936C9CBA1409844D74AA6E444E0F825C39CB9</key>
+		<string>../../../..</string>
+		<key>7FA78DA58032BAEBD1A595DD2AA248D4F6F009F4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mpapp/VKImage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7FA78DA58032BAEBD1A595DD2AA248D4F6F009F4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B5936C9CBA1409844D74AA6E444E0F825C39CB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FA78DA58032BAEBD1A595DD2AA248D4F6F009F4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VKImage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
